@@ -19,12 +19,7 @@ you improve your credibility because the quotation implies that the person you a
 
 
 ## VIDEO
-
-https://user-images.githubusercontent.com/99706585/183957334-df9dfe65-65ad-4522-975a-2da31286703d.mov
-
-
-
-
+https://user-images.githubusercontent.com/99706585/183957707-74251916-4eb9-4ed6-98c4-f878a8dfa7a8.mov
 
 
 ## Built with
