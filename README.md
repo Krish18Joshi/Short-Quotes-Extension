@@ -1,7 +1,10 @@
 # Short-Quotes-Extension
 <br>
 Motivation builds determination to achieve something, like losing weight or securing a new job, and when you succeed, you feel happy with your results. So, if you continue to motivate yourself and set and achieve new goals, you’ll generally feel happier than you did before and 
-you improve your credibility because the quotation implies that the person you are quoting agrees with your argument.
+you improve your credibility because the quotation implies that the person you are quoting agrees with your argument.<br>
+
+#### So I thought i would make this type of extension .
+
 
 ### Why Motivation Is Important for Your Success and Happiness ?
 
